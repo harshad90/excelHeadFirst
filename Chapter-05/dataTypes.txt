@@ -1,0 +1,2 @@
+check properly data type eg: if number have data type 'text' then function taking input
+number will give error.To convert data of text to number type use function "VALUE" 

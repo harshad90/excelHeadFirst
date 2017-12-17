@@ -1,0 +1,1 @@
+Use Format to do various styling like heading,total color

@@ -1,0 +1,3 @@
+use '$' for Absolute referencing 
+If data is more use 'NAME RANGE' referencing 
+If data is in table format use "TABLE" range give table suitable name then use eg:MAX(table_name[range you want to maximize])

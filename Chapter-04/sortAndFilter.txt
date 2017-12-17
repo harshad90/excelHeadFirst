@@ -1,0 +1,2 @@
+use sort if you want specific data first eg: sort column having height in ascending order
+use filter to filter data eg: filter height of people 164cm only. we can apply multiple filter on data.
