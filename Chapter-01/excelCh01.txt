@@ -1,0 +1,3 @@
+Use function SUM for addition instead of addin individual cell.
+In SUM function use array like B4:B7 which adds quickly.
+Use $ sign when money related data is there.
